@@ -1,0 +1,60 @@
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\bin\Debug\net5.0-windows\Game.exe
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\bin\Debug\net5.0-windows\Game.deps.json
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.json
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.dev.json
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\bin\Debug\net5.0-windows\Game.dll
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\bin\Debug\net5.0-windows\ref\Game.dll
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\bin\Debug\net5.0-windows\Game.pdb
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.csproj.AssemblyReference.cache
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.Form1.resources
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.csproj.GenerateResource.cache
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfoInputs.cache
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfo.cs
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.csproj.CoreCompileInputs.cache
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.dll
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\ref\Game.dll
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.pdb
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.genruntimeconfig.cache
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.Properties.Resources.resources
+D:\Class\LTGD_CODE\Test\BigExam\Game\Game\obj\Debug\net5.0-windows\Game.FrStart.resources
+C:\Users\Nguyen Vu\Downloads\Game\Game\bin\Debug\net5.0-windows\Game.exe
+C:\Users\Nguyen Vu\Downloads\Game\Game\bin\Debug\net5.0-windows\Game.deps.json
+C:\Users\Nguyen Vu\Downloads\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.json
+C:\Users\Nguyen Vu\Downloads\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.dev.json
+C:\Users\Nguyen Vu\Downloads\Game\Game\bin\Debug\net5.0-windows\Game.dll
+C:\Users\Nguyen Vu\Downloads\Game\Game\bin\Debug\net5.0-windows\ref\Game.dll
+C:\Users\Nguyen Vu\Downloads\Game\Game\bin\Debug\net5.0-windows\Game.pdb
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.csproj.AssemblyReference.cache
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.Form1.resources
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.FrStart.resources
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.Properties.Resources.resources
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.csproj.GenerateResource.cache
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfoInputs.cache
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfo.cs
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.dll
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\ref\Game.dll
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.pdb
+C:\Users\Nguyen Vu\Downloads\Game\Game\obj\Debug\net5.0-windows\Game.genruntimeconfig.cache
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\bin\Debug\net5.0-windows\Game.exe
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\bin\Debug\net5.0-windows\Game.deps.json
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.json
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.dev.json
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\bin\Debug\net5.0-windows\Game.dll
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\bin\Debug\net5.0-windows\ref\Game.dll
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\bin\Debug\net5.0-windows\Game.pdb
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.csproj.AssemblyReference.cache
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.Form1.resources
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.FrStart.resources
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.Properties.Resources.resources
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.csproj.GenerateResource.cache
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfoInputs.cache
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfo.cs
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.dll
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\ref\Game.dll
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.pdb
+C:\Users\Nguyen Vu\source\repos\Game\Game\Game\obj\Debug\net5.0-windows\Game.genruntimeconfig.cache
